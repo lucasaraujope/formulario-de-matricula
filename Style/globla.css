@@ -40,6 +40,8 @@
 --h3: 600 20px/120% var(var(--font-family));
 --h4: 600 16px/120% var(var(--font-family));
 
+}
 
-
+body{
+    overflow: hidden;
 }
