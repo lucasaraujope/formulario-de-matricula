@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+
+/*Brand Colors*/
+--brand-light: #f67841;
+--brand-mid: #f3541c;
+--brand-dark: #e43a12;
+
+/*Text Colors*/
+--text-primary: #292524;
+--text-secundary: #57534e;
+--text-tertiary: #8f8881;
+--text-highlight: #e43a12;
+
+/*Surface colors*/
+--surface-primary: #FFFFFF;
+--surface-secundary: #fee7d6;
+--surface-disabled: #e7e5e4;
+
+/*Stroke colors*/
+--stroke-default: #d6d3d1;
+--stroke-highlight: #fff541c;
+
+/*Semantic color*/
+--semantic-error: #dc2626;
+
+/*Global font*/
+--font-family: "Poppins", sans-serif;
+--text: 400 1rem/1.5 var(--font-family);
+--text-sm: 400 0.875rem/1.4 var(--font-family);
+
+/*Fonts*/
+--h1: 600 32px/120% var(var(--font-family));
+--h2: 600 24px/120% var(var(--font-family));
+--h3: 600 20px/120% var(var(--font-family));
+--h4: 600 16px/120% var(var(--font-family));
+
+
+
+}
