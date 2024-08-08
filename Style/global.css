@@ -13,7 +13,7 @@
 
 /*Text Colors*/
 --text-primary: #292524;
---text-secundary: #57534e;
+--text-secondary: #57534e;
 --text-tertiary: #8f8881;
 --text-highlight: #e43a12;
 
@@ -45,7 +45,7 @@
 body{
     overflow: hidden;
     font: var(--text);
-    color: var(--text-secundary);
+    color: var(--text-secondary);
 }
 
 h1,
