@@ -32,6 +32,7 @@ label+.radio-wrapper {
 
     .radio-image{
         background-image: url(../Assets/image/radio-default.svg);
+        background-repeat: no-repeat;
 
         width: 1.5rem;
         height: 1.5rem;
